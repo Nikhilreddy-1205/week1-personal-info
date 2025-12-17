@@ -1,0 +1,13 @@
+Test 1:
+Food: Pizza
+Place: hyderabad
+
+Test 2:
+Food: <Enter empty once, then Burger">
+Place: Delhi
+
+
+Test 3:
+Food: VeryLongFoodNameHere
+place: Bengaluru
+
