@@ -1,1 +1,22 @@
+Test 1: Normal input
+Input:
+  favourite_food = "pizza"
+  favourite_place = "goa"
+Expected:
+  Program prints all personal info, favourite_food, favourite_place, and age in months. No error messages.
 
+Test 2: Empty food once
+Input:
+  favourite_food = ""  (press Enter)
+  favourite_food = "burger"
+  favourite_place = "delhi"
+Expected:
+  Shows "enter your favourite food (cannot be empty)" once.
+  Asks again and then prints final information correctly.
+
+Test 3: Long strings
+Input:
+  favourite_food = "veryverylongfoodname"
+  favourite_place = "averyverylongplacename"
+Expected:
+  Program still prints full lines without crashing or cutting text.
